@@ -1,0 +1,13 @@
+{
+    "baseUrl": "http://localhost",
+    "video": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "./reports",
+        "overwrite": true,
+        "html": true,
+        "json": true
+    },
+    "integrationFolder": "./test-suite",
+    "screenshotOnRunFailure": true
+}
