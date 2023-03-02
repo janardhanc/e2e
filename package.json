@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/janardhanc/Cypress#readme",
   "dependencies": {
-    "cypress": "^3.3.1"
+    "cypress": "^12.7.0"
   },
   "devDependencies": {
     "mochawesome": "^4.1.0"
